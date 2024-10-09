@@ -11,6 +11,6 @@ hero:
     alt: Prima SMP
   actions:
     - theme: brand
-      text: Начать
+      text: Приступить к изучению
       link: /info
 ---
